@@ -1,0 +1,59 @@
+.textarea {
+    border: 3px solid transparent;
+    padding: 15px;
+    resize: none;
+    font-size: 21px;
+    outline: 0;
+    width: 100%;
+}
+
+.form {
+    padding: 10px;
+}
+
+.img {
+    border-radius: 10px;
+    height: auto;
+    width: 100%;
+}
+
+.textarea_dashed {
+    border: 3px dashed #09f;
+    border-radius: 10px;
+    padding: 15px;
+    resize: none;
+    font-size: 21px;
+    outline: 0;
+    width: 100%;
+}
+
+.div {
+    padding: 15px;
+}
+
+.avatar_container {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.form_container {
+    align-items: flex-start;
+    display: flex;
+}
+
+.remove_image {
+    position: relative;
+}
+
+.button {
+    background: rgba(0, 0, 0, 0.3);
+    border: 0;
+    border-radius: 999px;
+    color: #fff;
+    font-size: 18px;
+    width: 32px;
+    height: 32px;
+    top: 90px; 
+    position: absolute;
+    right: 15px;
+}
